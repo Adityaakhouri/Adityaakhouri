@@ -18,7 +18,7 @@
 - ⚡ Fun fact **One teaspoon of a neutron star would weigh about 6 billion tons on Earth!**
 
 <br><br>
-<h1 align="Center">Languages and Tools</h1>
+<h1 align="Center">🖥️⚙️Languages and Tools</h1>
 <p align="Center">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -79,7 +79,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaakhouri&" alt="adityaakhouri" style="width: 70%;" />
 </p>
 <br><br>
-<h1 align="center">Connect with me:-</h1>
+<h1 align="center">Connect with me on📲</h1>
 <p align="center">
 <a href="https://linkedin.com/in/aditya-akhouri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-akhouri" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.hackerrank.com/adityakhouri66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityakhouri66" height="30" width="40" /></a> &nbsp;&nbsp;
