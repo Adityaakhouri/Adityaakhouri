@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **adityakhouri66@gmail.com**
 
-- ⚡ Fun fact **One teaspoon of a neutron star would weigh about 6 billion tons on Earth!**
+- ⚡ Fun fact: **There are over 700 coding languages!**
 
 <br><br>
 <h1 align="Center">🖥️⚙️Languages and Tools</h1>
