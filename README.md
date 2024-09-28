@@ -70,7 +70,7 @@
 </p>
 <br>
 
-<h1 align="center" style="font-size: 1.5em;">GitHub Status</h1>
+<h1 align="center" style="font-size: 1.5em;">GitHub Status📝</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityaakhouri&show_icons=true&locale=en" alt="adityaakhouri" style="width: 70%;" />
 </p>
