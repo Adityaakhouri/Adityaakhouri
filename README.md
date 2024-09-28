@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Akhouri</h1>
-<h3 align="center">Enthusiastic AI Developer from India</h3>
+<h3 align="center">A passionate AI/ML enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4fLFEsWyhZtJ_7G1vk7dApeY4MYoE7InHQ&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaakhouri&label=Profile%20views&color=0e75b6&style=flat" alt="adityaakhouri" /> </p>
