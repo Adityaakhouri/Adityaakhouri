@@ -89,4 +89,7 @@
 <a href="https://www.hackerrank.com/adityakhouri66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityakhouri66" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.leetcode.com/adityakhouri66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adityakhouri66" height="30" width="40" /></a>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
 
